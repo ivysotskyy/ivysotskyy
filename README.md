@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-time software engineer | 🔧 Part-time Vue.js tinkerer building a portfolio for fun<br>🌱 Always up for contributing to interesting open source projects<br>💬 Ask me anything
+👨‍💻 Full-time software engineer | 🔧 Part-time tinkerer building a portfolio for fun<br>🌱 Always up for contributing to interesting open source projects<br>💬 Ask me anything
 
 
 ## 🌐 Socials:
